@@ -1,5 +1,5 @@
-# StajSureciOyunlari
-Mayedam şirketindeki stajım boyunca yaptığım oyunlar.
-Asteroids oyunu wasd tuşları ve space tuşuyla oynanıyor. Space ateş ediyor.
-TheSwordsman oyunu wasd tuşları space ve mouse tuşlarıyla oynanıyor. Space zıplama. Mouse0 vuruş mouse1 block.
-Yalnızca windows cihazlarda çalışıyorlar.
+# InternshipGames
+Games I made during my internship at Mayedam company.
+They only operate on Windows devices.
+Asteroids game is played with wasd keys and space key. Space shoots. Wasd moves the player.
+TheSwordsman game is played with wasd, left shift, space keys and mouse buttons. Space jumps. Mouse0 hits mouse1 blocks. Left shift dodge rolls.  
