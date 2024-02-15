@@ -11,7 +11,7 @@ This repository contains games I developed during my internship at Mayadem. Thes
   - `WASD` keys for movement.
   - `Spacebar` to shoot.
 
-![Asteroids](Asteroids.png "An Example Image of Asteroids")
+![Asteroids](Asteroids.png "Screenshot of Asteroids")
 
 ### Swordsman
 
@@ -23,4 +23,4 @@ This repository contains games I developed during my internship at Mayadem. Thes
   - `Mouse1` (right mouse button) to block.
   - `Left Shift` to perform a dodge roll.
 
-![Swordsman](Swordsman.png "An Example Image of Swordsman")
+![Swordsman](Swordsman.png "Screenshot of Swordsman")
