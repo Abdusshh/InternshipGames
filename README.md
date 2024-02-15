@@ -1,5 +1,5 @@
 # InternshipGames
-Games I made during my internship at Mayadem company.
+Games I made during my internship at Mayadem.
 They only operate on Windows devices.
 Asteroids game is played with wasd keys and space key. Space shoots. Wasd moves the player.
 
